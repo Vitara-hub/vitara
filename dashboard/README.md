@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../Vitara-README-Banner.png" alt="Banner Vitara - Your Health, Unified" width="100%" />
-</p>
-
 # Vitara Dashboard Analitik
 
 Vitara Dashboard adalah aplikasi Streamlit untuk mengeksplorasi, memfilter, dan
