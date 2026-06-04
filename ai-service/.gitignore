@@ -1,0 +1,19 @@
+/data
+.DS_Store
+/vitara-ai-service/.venv
+/vitara-ai-service/venv
+/tensor_scripts/.venv
+/tensor_scripts/venv
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Local Data
+.env
+vitara-ai-service/.env
+vitara-ai-service/data/
+/data/
+
+vitara-ai-service/models/nlp_model/vitara_nlp_indobert*
