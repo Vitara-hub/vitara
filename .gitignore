@@ -12,4 +12,5 @@
 **/logs/
 **/dist/
 **/coverage/
+**/.git/
 .DS_Store
